@@ -1,0 +1,56 @@
+.postpage{
+    display: flex;
+    align-items: space-between;
+    align-content: center;
+    justify-content: center;
+
+
+}
+
+.form-addpost{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    color: black;
+    background-color: rgb(204, 203, 203);
+    height: 100%;
+    width: 100%;
+    margin: 300px auto;
+    justify-content: center;
+    border-radius: 50px;
+    font-size: 20px;
+    border:2px solid #dbdbdb;
+
+}
+input{
+    display: flex;
+    flex-direction: column;
+    margin: 0px ;
+    align-items: center;
+    align-content: center;
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 0px;
+    justify-content: center;
+}
+.btn{
+    margin: 0px 100px;
+    width: 100px;
+    font-size: 20px;
+    display: inline;
+    margin-bottom: 30px;
+
+
+}
+
+.Aulo{
+    display: flex;
+    flex-direction: row;
+
+}
+.disc input{
+    width : 100%;
+}
